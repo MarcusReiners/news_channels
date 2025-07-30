@@ -1,4 +1,4 @@
-# 🎛️ TITEL PROJEKT — Interactive Political Video Installation
+# LATENT NEWS ROOM
 
 This is a local prototype of a media art installation exploring the manipulation of news and reality through political alignment. Two discrete sliders determine the orientation of the video news stream. As users move between political axes (economic: left↔right, social: progressive↔conservative), the played video changes — always continuing at the same relative time point.
 
