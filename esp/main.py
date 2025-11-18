@@ -7,8 +7,8 @@ import gc
 import utime
 
 # Configuration
-WIFI_SSID = "FRITZ!Box 7510 BD"
-WIFI_PASSWORD = "02060934382626285338"
+WIFI_SSID = ""
+WIFI_PASSWORD = ""
 
 # GPIO pin configuration for Soldered dual-channel sliders
 SLIDER1_OUTA_PIN = 36   # GPIO36 (ADC1_CH0)
